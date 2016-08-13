@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#301820</color>
+    <color name="colorPrimaryDark">#1e0f14</color>
+    <color name="colorAccent">#8B767D</color>
+    <color name="colorAccentLight">#BFA6A0</color>
+    <color name="colorAccent2">#E6A64F</color>
+    <color name="colorAccent3">#A27E75</color>
+    <color name="background_color">#E1E1E1</color>
+    <color name="red_highlight">#B1211D</color>
+    <color name="ripple_color">#8B767D</color>
+    <color name="white">#fff</color>
+    <color name="overlay">#e2000000</color>
+    <color name="fab_background">#9E2A2B</color>
+
+
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+
+    <color name="grey_100">#fafafa</color>
+    <color name="grey_200">#f5f5f5</color>
+    <color name="grey_300">#e0e0e0</color>
+    <color name="grey_400">#bdbdbd</color>
+    <color name="grey_500">#9e9e9e</color>
+    <color name="grey_600">#757575</color>
+    <color name="grey_700">#616161</color>
+    <color name="grey_800">#424242</color>
+    <color name="grey_900">#212121</color>
+</resources>
