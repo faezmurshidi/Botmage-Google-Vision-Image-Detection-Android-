@@ -5,8 +5,9 @@
 Android Image LABEL_DETECTION using Google Vision API
 
 
-Instruction:
-1. Get Google Vision API key and replace in Strings.xml
+#Instruction:
+
+1. Get Google Vision API key and replace in Strings.xml.
 2. This app only use the LABEL_DETECTION feature. You can use others too.
 
 
